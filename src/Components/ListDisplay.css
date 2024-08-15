@@ -1,0 +1,18 @@
+.a{
+
+    display:flex;
+    justify-content: center;
+    margin-top: 80px;
+    color: white;
+    font-size:30px;
+    position: relative;
+    text-align: center;
+    list-style-type: none;
+    
+   
+  }
+  
+  .solid {
+    border-top: 8px solid white;
+    border-radius: 5px;
+}

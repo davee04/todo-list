@@ -1,0 +1,20 @@
+.Page-layout{
+    background: rgb(31, 230, 77);
+    border: 2px solid GREY;
+    position: absolute;
+    right:20%;
+    min-height:80vh;
+    width:60%;
+    top: 100px;
+   
+    border-radius: 25px;
+    display:flex;
+   
+    /* align-items: center; */
+    justify-content: center;
+    
+   
+
+    /* position: relative; */
+    
+}
